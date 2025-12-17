@@ -9,7 +9,7 @@ import LifestyleResult from "./components/LifestyleResult.jsx";
 import Profile from "./components/Profile.jsx";
 
 import Signup from "./pages/Signup.jsx";
-import Login from "./pages/Login.jsx";
+import Login from "./pages/login.jsx";
 
 import ProtectedRoute from "./components/ProtectedRoute.jsx";
 import GuestRoute from "./components/GuestRoute.jsx";
